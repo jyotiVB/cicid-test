@@ -38,7 +38,7 @@
 <muleVersion>${mule.version}</muleVersion>
 <username>${anypoint.username}</username>
 <password>${anypoint.password}</password>
-<applicationName>jenkinstestapp</applicationName>
+<applicationName>cicid-test</applicationName>
 <environment>${anypoint.environment}</environment>
 <properties>
 <key>value</key>
